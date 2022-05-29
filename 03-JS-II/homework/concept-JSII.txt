@@ -1,0 +1,8 @@
+* `for`
+Son bucles con sintaxis unica, muy parecida a if, pero mucho mas compleja. Estan contituidos por una variable, una expresion condicional y el incremento de la variable.
+* `&&`
+Es un operador lógico llamado "and" en español "y" se encarga de evaluar expresiones y devolver si ambas son true. Si alguna es falsa devuelve false.
+* `||`
+Operador lógico llamado "or", en español "o". Son dos barras verticales que determinan si alguna de las epresiones es true, solo decuelve esto si una o ambas son true. En el caso que ambas sean false, devuelve false.
+* `!`
+Es uno de los operados lógicos llamado "not" ("no"). Da como respuesa un valor booleano opuesto a lo que se le pasa.
