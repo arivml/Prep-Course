@@ -1,2 +1,2 @@
 * Arrays
-Basicamento son listas con el proposito de proporcionar métodos para efectuar operaciones de recorrido y de mutación. La longitud y el tipo de los elementos de un array pueden variar, va a depender de como el programador los use.
+Basicamente son listas con el proposito de proporcionar métodos para efectuar operaciones de recorrido y de mutación. La longitud y el tipo de los elementos de un array pueden variar, va a depender de como el programador los use.
