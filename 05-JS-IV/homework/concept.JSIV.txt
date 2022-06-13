@@ -1,0 +1,11 @@
+    * Objetos
+    Son entidades independientes que tienen propiedades y tipos asociadas a el, puede definirse como una variable adjunta al objeto.
+	* Propiedades
+    Es la asociacion de entre el nombre o clave y un valor. Se encargan de definir las caracteristicas de los objetos.
+	* Métodos
+    Son las funciones guardadas en los objetos.
+	* Bucle `for…in`
+    Es utiizado para ejecutar una determinada cantidad de veces una o mas instrucciones exclusivamente se aplica a propiedades enumerables que no son simbolos.
+	* Notación de puntos vs notación de corchetes
+    Con ambas notaciones se accede a las propiedades o funciones del objeto.
+    Una diferencia es que cuando usamos corchetes podemos acceder a propiedades que tienen un espacio o carácter no permitido en la notación de punto.
