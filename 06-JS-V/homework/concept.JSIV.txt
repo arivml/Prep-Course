@@ -1,0 +1,6 @@
+* `prototype`
+Es una propiedad de los obejetos, que a su vez es un objeto, se encarga de que los objetos hereden caracteristicas entre sí.
+
+* _Constructors_ (de Clases)
+Se denomina así a un tipo especial de método de una clase, que se ejecuta automáticamente a la hora de hacer un new. 
+Una clase solo puede tener un constructor, y en el caso de que no se especifique, tendrá uno vacío de forma implícita.

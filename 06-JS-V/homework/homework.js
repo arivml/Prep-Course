@@ -58,21 +58,20 @@ function agregarStringInvertida() {
   class Persona {
     constructor(/*Escribir los argumentos que recibe el constructor*/) {
       // Crea el constructor:
-      this.nombre = nombre;
-      this.apellido = apellido;
-      this.edad = edad;
-      this.domicilio = domicilio;
-    }
-    detalle () {
-      var obj = {
-        nombre: this.nombre,
-        apellido: this.apellido,
-        edad: this.edad,
-        domicilio: this.edad,
-      }
-        return obj
+      this.nombre = nombre,
+      this.apellido = apellido,
+      this.edad = edad,
+      this.domicilio = domicilio
+      this.detalle = function() {
+        return { 
+          Nombre: this.nombre,
+          Apellido: this.apellido,
+          Edad: this.edad,
+          Domicilio: this.domicilio
         }
       }
+    }
+  }
 
 function crearInstanciaPersona(nombre, apellido, edad, dir) {
   //Con esta función vamos a crear una nueva persona a partir de nuestro constructor de persona (creado en el ejercicio anterior)
